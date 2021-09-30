@@ -3,7 +3,3 @@ this is the summary
 putting new lines
 
 we will pull / update
-
-updating summary
-
-we finally have java tomorrow

@@ -3,3 +3,7 @@ hello, new day
 This is page 1 of chapter 3
 
 working on chapter 3
+
+There are some new changes
+
+random text even more 
